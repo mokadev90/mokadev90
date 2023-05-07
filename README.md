@@ -1,4 +1,4 @@
-▶️ REACT | REACT NATIVE | NEXT | TYPESCRIPT | REDUX | CSS | STYLED COMPONENTS | TAILWIND | JEST | REACT TESTING LIBRARY | STORYBOOK | GIT | NODE | EXPRESS | MONGO | FIREBASE | DOCKER ◀️
+▶️ REACT | REACT NATIVE | NEXT | TYPESCRIPT | REDUX | CSS | STYLED COMPONENTS | TAILWIND | JEST | REACT TESTING LIBRARY | STORYBOOK | GIT | NODE | EXPRESS | MONGO | FIREBASE | DOCKER | API-REST | GRAPHQL ◀️
 
 ❤️‍🔥 I love programming, I'm like one of those programmers who several days a week go to bed late for programming. 🔥
 
